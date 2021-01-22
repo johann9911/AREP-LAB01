@@ -28,5 +28,5 @@ target/
 ### Java ###
 # Compiled class file
 .classpath
-
+.settings
 .project
