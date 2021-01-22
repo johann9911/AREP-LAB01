@@ -1,4 +1,4 @@
-# Compiled class file
+.# Compiled class file
 *.class
 
 # Log file
@@ -24,3 +24,9 @@ hs_err_pid*
 
 # Ignora todos los archivos en el directorio target en los proyectos creados con maven
 target/
+
+### Java ###
+# Compiled class file
+.class
+
+.project
