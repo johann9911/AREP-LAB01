@@ -18,4 +18,3 @@ conjunto de números dados en un archivo .txt.
 ## Licencia
 
 Ver licencia en LICENCE.txt para más detalles.
-
