@@ -1,9 +1,11 @@
 # Laboratorio 01 AREP
 
 Proyecto realizado por Johann Steven Bogotá
+
 Se realizo la implementación de una LinkedList con ayuda de la API que nos ofrece java, para esta implementación se
 creo una clase Nodo para enfocarnos en la definición de una LinkedList, para encontrar más detalles mirar el archivo 
 Articulo.pdf.
+
 Ya con esta implementación se realizó una calculadora que era capaz de obtener la media y la desviación estándar de un
 conjunto de números dados en un archivo .txt.
 
